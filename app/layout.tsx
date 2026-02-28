@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio",
-  description: "Under Construction",
+  title: "Josef Stein Butzke — Software Engineer",
+  description: "Software Engineer based in Yokohama, Japan. Specializing in mobile apps, web development, and performance optimization.",
 };
 
 export default function RootLayout({
